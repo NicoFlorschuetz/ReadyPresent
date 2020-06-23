@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+June 23 2020
 
 # Privacy Policy
 The app runs entirely locally, on your iOS device. It does not need a network connection. <br>
