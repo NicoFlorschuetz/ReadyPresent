@@ -9,5 +9,5 @@ Dec 21 2021
 
 # AGB
 
-Dachtest du da passiert etwas? Ups.<br>
+Dachtest du da passiert etwas? Ups. Leider falsch gedacht. <br>
 Hier werden bald die AGBs stehen. <br>
