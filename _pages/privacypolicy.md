@@ -5,12 +5,9 @@ include_in_header: true
 ---
 
 **Last updated**  
-June 23 2020
+Dec 21 2021
 
-# Privacy Policy
-The app runs entirely locally, on your iOS device. It does not need a network connection. <br>
-The app does not collect any data, period.<br>
+# AGB
 
-During the TestFlight phase, if the application crashes, a crash report can be sent to the developers. This crash report will contain information about what caused the crash (functions being called, values of variables).<br>
-
-The owner of the application, Nico Florschütz, does not have any way to access the data viewed or created by the user.<br>
+Dachtest du da passiert etwas? Ups.<br>
+Hier werden bald die AGBs stehen. <br>
