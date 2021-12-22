@@ -6,13 +6,6 @@
     <meta charset="utf-8">
     <title>Favorite fruit start</title>
     <style>
-      input:invalid {
-        border: 2px dashed red;
-      }
-
-      input:valid {
-        border: 2px solid black;
-      }
     </style>
 </head>
     
@@ -63,7 +56,7 @@
                                 {{ site.app_description }}
                             </p>
                         </div>
-                        <form>
+                        <form action="/action_page.php">
                             <input id="passwd" name="password" required pattern="Hund">
                             <button type="submit">anmelden</button>
                         </form>
