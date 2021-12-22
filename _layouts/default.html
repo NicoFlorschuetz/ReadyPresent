@@ -50,46 +50,12 @@
                                 {{ site.app_description }}
                             </p>
                         </div>
-                        form {
-  width: 30em;
-  padding-top: 3em;
-  position: relative;
-}
-input {
-  margin: 0 0 1em 31%;
-  padding: .2em .5em;
-  width: 60%;
-  background-color: #fffbf0; 
-  border: 1px solid #e7c157;  
-}
-label { 
-  text-align: right;
-  line-height: 1.5;
-  width: 30%;
-  position: absolute;
-  left: 0;
-}
-label::after {
-  content: ": ";
-}
-button {
-  margin-left: 31%;
-}
-input:required + label::before {
-  position: absolute;
-  left: 300%;
-  content: "★";
-  color: red;
-}
-input:required:valid + label::before {
-  content: "✔";
-  color: green;
-}
-    <form>
-         <input id="bname" required><label for="bname">Benutzername</label>
-         <input id="passwd" type="password" required><label for="passwd">Passwort</label>      
-         <button type="submit">anmelden</button>
-    </form>
+                        <form>
+                            <input id="bname" required><label for="bname">Benutzername</label>
+                            <input id="passwd" type="password" required><label for="passwd">Passwort</label>      
+                            <button type="submit">anmelden</button>
+                        </form>
+                        
                     </div>
                     {% include features.html %}
                     {% include footer.html %}
