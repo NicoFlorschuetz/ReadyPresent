@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/IMG_3072.jpeg                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Gutschein #für ein Foto-Shooting mit deinem Hund                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Gutschein für ein Foto-Shooting mit deinem Hund                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : kostenlos                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : dein Geschenk wird bald online sein #hiermit ist dein Gutschein für dich gültig. Bitte beachte die Teilnahmebedingungen
+app_description                           : hiermit ist dein Gutschein für dich gültig. Bitte beachte die Teilnahmebedingungen
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -40,19 +40,19 @@ features                                  :
     
 
 
-  - title                                 : # Location deiner Wahl
-    description                           : # Flugplatz? Festung? Oder am Waldrand? Ganz egal, du bestimmst den Ort.
-    fontawesome_icon_name                 : # magic
+  - title                                 : Location deiner Wahl
+    description                           : Flugplatz? Festung? Oder am Waldrand? Ganz egal, du bestimmst den Ort.
+    fontawesome_icon_name                 : magic
     
     
-  - title                                 : # Nachbearbeitung inklusive
-    description                           : # Du möchtest deinen Bildern den letzten Schliff verpassen, hast aber keine Ahnung wie? Keine Angst, wir machen das für dich.
-    fontawesome_icon_name                 : # magic
+  - title                                 : Nachbearbeitung inklusive
+    description                           : Du möchtest deinen Bildern den letzten Schliff verpassen, hast aber keine Ahnung wie? Keine Angst, wir machen das für dich.
+    fontawesome_icon_name                 : magic
     
     
-  - title                                 : # Dauer
-    description                           : # Du wirst circa eine Stunde Zeit haben, dich mit deinem Schweinemann ins perfekte Licht zu stellen. 
-    fontawesome_icon_name                 : # magic
+  - title                                 : Dauer
+    description                           : Du wirst circa eine Stunde Zeit haben, dich mit deinem Schweinemann ins perfekte Licht zu stellen. 
+    fontawesome_icon_name                 : magic
 
 
 
