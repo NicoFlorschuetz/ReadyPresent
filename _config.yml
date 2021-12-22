@@ -40,9 +40,19 @@ features                                  :
     
 
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : # Location deiner Wahl
+    description                           : # Flugplatz? Festung? Oder am Waldrand? Ganz egal, du bestimmst den Ort.
+    fontawesome_icon_name                 : # magic
+    
+    
+  - title                                 : # Nachbearbeitung inklusive
+    description                           : # Du möchtest deinen Bildern den letzten Schliff verpassen, hast aber keine Ahnung wie? Keine Angst, wir machen das für dich.
+    fontawesome_icon_name                 : # magic
+    
+    
+  - title                                 : # Dauer
+    description                           : # Du wirst circa eine Stunde Zeit haben, dich mit deinem Schweinemann ins perfekte Licht zu stellen. 
+    fontawesome_icon_name                 : # magic
 
 
 
