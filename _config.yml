@@ -34,11 +34,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Kannst du dich gedulden?
-    description                           : Bleib gespannt
-    fontawesome_icon_name                 : magic
     
-
 
   - title                                 : Location deiner Wahl
     description                           : Flugplatz? Festung? Oder am Waldrand? Ganz egal, du bestimmst den Ort.
