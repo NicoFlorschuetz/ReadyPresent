@@ -12,11 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/IMG_3072.jpeg                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Gutschein für ein Foto-Shooting mit Emil                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : kostenlos                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Hey Glückwunsch, Sie haben gewonnen. Bitte beachte jedoch die <a href="#" onClick="alert('Der Gutschein ist nur einlösbar, wenn du das richtige Codewort eingegeben hast. <br>
-Er ist gültig bis zum Ende der Freundschaft und kann nicht übertragen werden. <br>
-Er kann nicht mit anderen Aktionen eingelöst werden. Der beste Freund muss während des Shootings anwesend sein. <br>
-Der Termin muss 2 Wochen im Voraus bekannt gegeben und abgesprochen werden. <br>
-Im Gutschein sind 3-4 Bilder inklusive Nachbearbeitung enthalten. <br>')">Teilnahmebedingungen</a>.
+app_description                           : Hey Glückwunsch, Sie haben gewonnen. Bitte beachte jedoch die <a href="#" onClick="alert('Er ist gültig bis zum Ende der Freundschaft und kann nicht übertragen werden. <br>Er kann nicht mit anderen Aktionen eingelöst werden. Der beste Freund muss während des Shootings anwesend sein. <br>Der Termin muss 2 Wochen im Voraus bekannt gegeben und abgesprochen werden. <br>Im Gutschein sind 3-4 Bilder inklusive Nachbearbeitung enthalten. <br>')">Teilnahmebedingungen</a>.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
