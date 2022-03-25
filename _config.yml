@@ -10,7 +10,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/IMG_3072.jpeg                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Hier ist meiene Nummer                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Hier ist meine Nummer                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 01736248244                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Hey Glückwunsch, Sie haben gewonnen. Bitte beachte jedoch die <a href="#" onClick="alert('Du hast endlich meine Nummer bekommen. Du hast unbegrenzt Zugang. Zwischen 00:00-06:00 bin ich eher seltern erreicbar. Vervielfältigung verboten.')">Teilnahmebedingungen</a>.
 
