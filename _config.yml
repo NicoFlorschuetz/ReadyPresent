@@ -10,7 +10,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/IMG_3072.jpeg                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Website zu meiner Nummer                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Hier ist meiene Nummer                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : kostenlos                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Hast du die Fragen alle beantworten können?  #hiermit ist dein Gutschein für dich gültig. Bitte beachte die Teilnahmebedingungen
 
