@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/IMG_3072.jpeg                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Hier ist meiene Nummer                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : kostenlos                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : 01736248244                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Hey Glückwunsch, Sie haben gewonnen. Bitte beachte jedoch die <a href="#" onClick="alert('Du hast endlich meine Nummer bekommen. Du hast unbegrenzt Zugang. Zwischen 00:00-06:00 bin ich eher seltern erreicbar. Vervielfältigung verboten.')">Teilnahmebedingungen</a>.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -42,17 +42,17 @@ features                                  :
 
   - title                                 : Immer Zugang zu meinem Gelaber
     description                           : Frühs? Abends? Auf der Arbeit? Ganz egal!
-    fontawesome_icon_name                 : # magic
+    fontawesome_icon_name                 : magic
     
     
   - title                                 : Die ultimative Alternative zum Brief.
     description                           : Egal ob SMS, WhatsApp, Anruf, FaceTime... Alles mit nur einer Nummer.
-    fontawesome_icon_name                 : # magic
+    fontawesome_icon_name                 : magic
     
     
   - title                                 : Dauer der Nutzung 
     description                           : So lange du willst.
-    fontawesome_icon_name                 : # magic
+    fontawesome_icon_name                 : magic
 
 
 
