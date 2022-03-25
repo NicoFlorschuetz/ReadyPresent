@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/IMG_3072.jpeg                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Gutschein für ein Foto-Shooting mit Emil                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Website zu meiner Nummer                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : kostenlos                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Hey Glückwunsch, Sie haben gewonnen. Bitte beachte jedoch die <a href="#" onClick="alert('Er ist gültig bis zum Ende der Freundschaft und kann nicht übertragen werden. Er kann nicht mit anderen Aktionen eingelöst werden. Der beste Freund muss während des Shootings anwesend sein. Der Termin muss 2 Wochen im Voraus bekannt gegeben und abgesprochen werden. Im Gutschein sind 3-4 Bilder inklusive Nachbearbeitung enthalten. ')">Teilnahmebedingungen</a>.
+app_description                           : Hast du die Fragen alle beantworten können?  #hiermit ist dein Gutschein für dich gültig. Bitte beachte die Teilnahmebedingungen
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,21 +34,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : Warst du schlau genug?
+    description                           : Ich hoffe es.
+    fontawesome_icon_name                 : magic
     
 
-  - title                                 : Location deiner Wahl
-    description                           : Flugplatz? Festung? Oder am Waldrand? Ganz egal, du bestimmst den Ort.
-    fontawesome_icon_name                 : magic
+
+  - title                                 : Immer Zugang zu meinem Gelaber
+    description                           : Frühs? Abends? Auf der Arbeit? Ganz egal!
+    fontawesome_icon_name                 : # magic
     
     
-  - title                                 : Nachbearbeitung inklusive
-    description                           : Du möchtest deinen Bildern den letzten Schliff verpassen, hast aber keine Ahnung wie? Keine Angst, wir machen das für dich.
-    fontawesome_icon_name                 : magic
+  - title                                 : Die ultimative Alternative zum Brief.
+    description                           : Egal ob SMS, WhatsApp, Anruf, FaceTime... Alles mit nur einer Nummer.
+    fontawesome_icon_name                 : # magic
     
     
-  - title                                 : Dauer
-    description                           : Du wirst circa eine Stunde Zeit haben, dich mit deinem Schweinemann ins perfekte Licht zu stellen. 
-    fontawesome_icon_name                 : magic
+  - title                                 : Dauer der Nutzung 
+    description                           : So lange du willst.
+    fontawesome_icon_name                 : # magic
 
 
 
